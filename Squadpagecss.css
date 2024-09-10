@@ -52,6 +52,7 @@ body {
 
 .grid {
   display: flex;
+  /* Display flex werkt goed maar ik wil scrollen */
   justify-content: space-between;
   gap: 20px;
   margin-top: 20px;
