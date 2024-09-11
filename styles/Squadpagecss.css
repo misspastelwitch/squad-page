@@ -22,6 +22,8 @@ body {
 }
 
 .container {
+  display: flex;
+  flex-direction: column;
   text-align: center;
   background: rgba(216,140,154, 0.6);
   padding: 40px;
