@@ -1,0 +1,27 @@
+body {
+	
+}
+
+h1{
+	text-align:center;
+}
+
+h2{
+	text-align:center;
+}
+
+.mensen {
+  border-radius: 50%;
+  display:grid;
+  grid-template-columns:1fr;
+  grid-row:1/-1;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
+
+@media screen and (min-width:900px){
+	.mensen {
+		text-align:center;
+	}
+}
