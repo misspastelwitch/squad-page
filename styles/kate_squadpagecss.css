@@ -19,3 +19,9 @@ h2{
   margin-right:auto;
   text-align:center;
 }
+
+@media screen and (min-width:900px){
+	.mensen {
+		text-align:center;
+	}
+}
