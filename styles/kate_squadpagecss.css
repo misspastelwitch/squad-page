@@ -13,8 +13,9 @@ h2{
 .mensen {
   border-radius: 50%;
   display:grid;
-  grid-template-columns:1fr 1fr 1fr;
-  grid-row:2/3;
-  margin-left: auto;
-  margin-right: auto;
+  grid-template-columns:1fr;
+  grid-row:1/-1;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
 }
