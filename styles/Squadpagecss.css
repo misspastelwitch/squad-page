@@ -7,13 +7,13 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #d1dcfc ;
-  color: #F9F5E3;
+  background-color: #F9F5E3;
+  color: #d1dcfc;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url(https://img.freepik.com/free-vector/beautiful-mountain-landscape-early-pink-morning_107791-8498.jpg?w=900&t=st=1707697480~exp=1707698080~hmac=cd2768359d99e919428750a6541b5e4e2c25c7e690d2fa0f38cc9ed261ee2a43);
+  background-image: url(https://static.vecteezy.com/system/resources/previews/000/280/920/original/vector-abstract-pastel-geometric-background.jpg);
   /* Idk if this image will continue to work because it is not a local file??? lol */
   background-size: cover;
   background-repeat: no-repeat;
@@ -29,7 +29,7 @@ body {
   padding: 40px;
   border-radius: 10px;
   width: 90%;
-  height: 90%;
+  height: 95vh;
   max-width: 1200px;
 }
 
